@@ -1,0 +1,55 @@
+#header {
+    text-align: center;
+    background-image: url('madani\ groupe.PNG');
+    background-size: 100% 100%;
+    height: 1000px;
+}
+
+#header h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 10px;
+    color: black;
+}
+
+#header h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0c0771;
+    font-weight: bold;
+}
+
+#header p{
+    font-size: xx-large;
+}
+
+#bodie {
+    text-align: center;
+    background-image: url('hadate.PNG');
+    background-size: 100% 100%;
+    height: 1000px;
+    padding-top: 150px;
+}
+
+#bodie p {
+    color: rgb(0, 156, 65);
+    line-height: 50px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+#madani {
+    background-image: url('madani.PNG');
+    background-size: 100% 100%;
+    height: 1000px;
+}
+
+#footer {
+    text-align: center;
+    background-color: #0c0771;
+    color: wheat;
+    padding: 50px;
+    font-size: large;
+}
+
+.btn {
+    border-radius: 15px;
+}
